@@ -13,7 +13,7 @@
 4. Вывести результат.
 5. Конец
 ### Блок-схема ###
-<img width="240" height="1924" alt="image" src="https://github.com/user-attachments/assets/bfbdbc07-6e16-454f-a34a-9a6f9554bb8a" />
+<img width="200" height="1924" alt="image" src="https://github.com/user-attachments/assets/bfbdbc07-6e16-454f-a34a-9a6f9554bb8a" />
 
 
 ## 2. Реализация программы ##
