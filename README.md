@@ -8,8 +8,8 @@
    * ``` a, b, c ``` - вещественные числа.
 3. Условия проверки:
    * ``` a > -1 && a < 1 ``` - первое число больше -1 и меньше 1;
-     ``` b > -1 && b < 1 ``` - второе число больше -1 и меньше 1;
-     ``` c > -1 && c < 1 ``` - третье число больше -1 и меньше 1.
+   * ``` b > -1 && b < 1 ``` - второе число больше -1 и меньше 1;
+   * ``` c > -1 && c < 1 ``` - третье число больше -1 и меньше 1.
 4. Вывести результат.
 5. Конец
 ### Блок-схема ###
@@ -17,11 +17,11 @@
 
 
 ## 2. Реализация программы ##
-<img width="360" height="884" alt="image" src="https://github.com/user-attachments/assets/c05886b5-f339-4960-b9bc-171210b21589" />
+<img width="370" height="884" alt="image" src="https://github.com/user-attachments/assets/c05886b5-f339-4960-b9bc-171210b21589" />
 
 
 ## 3. Результаты работы программы ##
-<img width="360" height="158" alt="image" src="https://github.com/user-attachments/assets/1ba10910-41d5-496b-abc0-fe1672633a88" />
+<img width="370" height="158" alt="image" src="https://github.com/user-attachments/assets/1ba10910-41d5-496b-abc0-fe1672633a88" />
 
 
 ## 4. Информация о разработчике ##
